@@ -51,3 +51,6 @@ This project significantly enhanced skills in:
 3. Run Queries:
 - Navigate to the sql_queries directory.
 - Execute the .sql files in your preferred SQL client.
+
+
+![magnifying-glass-and-documents-with-analytics-data-lying-on-table-free-photo](https://github.com/user-attachments/assets/34835c1f-5e1e-4a5e-b4e3-bd19f1396d8b)
